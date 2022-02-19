@@ -1,5 +1,6 @@
 # ARMAN_UMAR_D0221049_D
 TUGAS PERTEMUAN I
+
 A. Tugas Mandiri
 1. Bikin Akun Hackerrank
 2. Bikin Akun Github dan Instal Git
@@ -10,6 +11,7 @@ B. Tugas Kelompok
 --- belum ada tugas kelompok
 
 >>>PENJELASAN UNTUK MENJAWAB TUGAS
+
 a. Akun nama Github, Hackerrank, dan channel youtube akan dikumpulkan melalui google form dan akan diperiksa oleh asisten kelas.
 b. Aturan Commit Github
  - nama repository = nama_nim_kelas | ahmad_afrisal_d0220374_c
