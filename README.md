@@ -1,18 +1,23 @@
 # ARMAN_UMAR_D0221049_D
+
 TUGAS PERTEMUAN I
 
 A. Tugas Mandiri
+
 1. Bikin Akun Hackerrank
 2. Bikin Akun Github dan Instal Git
 3. Bikin Channel Youtube, Upload sebuah Video, Subcriber minimal 30 hingga akhir pekan ini.
 4. Commit ke Github satu jawaban soal Hackerrank setiap hari (hanya satu dan harus satu) - commit pertama akan dimulai pada tanggal 19 Februari 2022. catatan aturan commit Github akan dijelaskan kemudian.
 
+
 B. Tugas Kelompok
+
 --- belum ada tugas kelompok
 
 >>>PENJELASAN UNTUK MENJAWAB TUGAS
 
 a. Akun nama Github, Hackerrank, dan channel youtube akan dikumpulkan melalui google form dan akan diperiksa oleh asisten kelas.
+
 b. Aturan Commit Github
  - nama repository = nama_nim_kelas | ahmad_afrisal_d0220374_c
  - nama file = day1_welcome_to_java.java | day2_java_if-else.java 
